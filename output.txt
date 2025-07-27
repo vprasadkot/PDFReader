@@ -1,0 +1,111 @@
+SUMMARY
+QA Analyst with 3.9 years of hands-on experience in manual testing,
+specializing in functional, regression, UAT, smoke, and sanity testing
+for web-based and enterprise applications. Proven ability in test case
+design, UI validation, black-box testing, and root cause analysis,
+ensuring thorough test coverage and high-quality software delivery.
+Experienced in Agile/Scrum environments, with solid understanding of
+SDLC and STLC. Proficient in tools such as JIRA (for test management
+and defect tracking) and Postman (for API response validation). Basic
+working knowledge of Selenium, TestNG, and core Java, with a strong
+interest in expanding automation capabilities.
+Recognized for a detail-oriented and collaborative approach,
+effectively working with developers, business analysts, and
+stakeholders to identify issues early and ensure timely resolution.
+Committed to driving continuous improvement in quality assurance
+processes and evolving toward test automation in future roles.
+EXPERIENCE
+S&V Tek Systems - QA Engineer
+07/2023 - 06/2025
+Ojas Innovative Technologies - Software Engineer
+08/2021 - 05/2023
++91 7207200867
+satyanarayanathondapu@gmail.com
+SKILLS
+EDUCATION
+09/2011 - 05/2015
+Sri Prakash College of Technology
+Bachelor of Technology (B.Tech):
+Electronics and Communication
+Satya Narayana Reddy
+Thondapu
+Executed functional, regression, and exploratory testing for web and
+mobile apps
+●
+Wrote detailed test cases based on user stories and acceptance
+criteria
+●
+Collaborated with developers and BAs in daily stand-ups, sprint
+planning, and retrospectives
+●
+Logged and tracked bugs using JIRA; ensured accurate reproduction
+steps and resolution verification
+●
+Participated in test plan creation and provided QA estimates in
+planning sessions
+●
+Involved in test case development, manual execution, and test
+reporting
+●
+Assisted in developing automation test scripts using Selenium
+WebDriver and TestNG (proof of concept level)
+●
+Designed keyword-driven and data-driven frameworks for internal
+banking projects
+●
+Worked closely with cross-functional teams for defect resolution
+and release readiness
+●
+Participated in UAT testing support and environment setup
+●
+Manual Testing
+●
+Functional Testing
+●
+Regression Testing
+●
+UAT
+●
+Smoke Testing
+●
+Test Case Design
+●
+Defect Reporting
+●
+Root Cause Analysis
+●
+Test Planning
+●
+Agile Practices
+●
+Scrum Practices
+●
+SDLC
+●
+STLC
+●
+JIRA
+●
+Postman
+●
+Selenium
+●
+TestNG
+●
+Black-box Testing
+●
+UI Testing
+●
+API Validation
+●
+Core Java
+●
+API Testing
+●
+Defect Tracking Tools
+●
+Exploratory Testing
+●
+Sanity Testing
+●
+#HRJ#2a63a6e3-7967-4e56-bab6-af20f39c0794#
